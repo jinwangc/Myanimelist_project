@@ -1,0 +1,148 @@
+rank,Manga series,Author(s),Publisher,Demographic,No. of collected volumes,Serialized,Approximate sales
+1,One Piece,Eiichiro Oda,Shueisha,Shōnen,97,1997–present,470 million
+2,Dragon Ball,Akira Toriyama,Shueisha,Shōnen,42,1984–1995,250–300 million
+3,Golgo 13,Takao Saito,Shogakukan,Seinen,197,1968–present,280 million
+4,Naruto,Masashi Kishimoto,Shueisha,Shōnen,72,1999–2014,250 million
+5,Detective Conan,Gosho Aoyama,Shogakukan,Shōnen,98,1994–present,230 million
+6,Black Jack,Osamu Tezuka,Akita Shoten,Shōnen,25,1973–1983,176 million
+7,KochiKame: Tokyo Beat Cops,Osamu Akimoto,Shueisha,Shōnen,200,1976–2016,157 million
+8,Oishinbo,"Tetsu Kariya, Akira Hanasaki",Shogakukan,Seinen,111,1983–2014 (on hiatus),130 million
+9,Slam Dunk,Takehiko Inoue,Shueisha,Shōnen,31,1990–1996,126 million
+10,Bleach,Tite Kubo,Shueisha,Shōnen,74,2001–2016,120 million
+11,Demon Slayer: Kimetsu no Yaiba,Koyoharu Gotōge,Shueisha,Shōnen,23,2016–2020,120 million
+12,Astro Boy,Osamu Tezuka,Kobunsha,Shōnen,23,1952–1968,100 million
+13,Attack on Titan,Hajime Isayama,Kodansha,Shōnen,32,2009–present,100 million
+14,Doraemon,Fujiko Fujio,Shogakukan,Children,45,1969–1996,100 million
+15,Fist of the North Star,Buronson,Shueisha,Shōnen,27,1983–1988,100 million
+16,JoJo's Bizarre Adventure,Hirohiko Araki,Shueisha,Shōnen/Seinen,127,1987–present,100 million
+17,The Kindaichi Case Files,Yōzaburō Kanari,Kodansha,Shōnen/Seinen,86,1992–present,100 million
+18,Touch,Mitsuru Adachi,Shogakukan,Shōnen,26,1981–1986,100 million
+19,Hajime no Ippo,George Morikawa,Kodansha,Shōnen,127,1989–present,96 million
+20,Sazae-san,Machiko Hasegawa,Kodansha,,45,1946–1974,86 million
+21,Vagabond,Takehiko Inoue,Kodansha,Seinen,37,1998–2015 (on hiatus),82 million
+22,Captain Tsubasa,Yōichi Takahashi,Shueisha,Shōnen/Seinen,92,1981–present,80 million
+23,Sangokushi,Mitsuteru Yokoyama,Ushio Shuppansha,Shōnen,60,1971–1986,80 million
+24,Hunter × Hunter,Yoshihiro Togashi,Shueisha,Shōnen,36,1998–2018 (on hiatus),78 million
+25,Baki the Grappler,Keisuke Itagaki,Akita Shoten,Shōnen,132,1991–present,75 million
+26,Kinnikuman,Yudetamago,Shueisha,Shōnen/Seinen,65,1979–present,75 million
+27,Fairy Tail,Hiro Mashima,Kodansha,Shōnen,63,2006–2017,72 million
+28,Rurouni Kenshin,Nobuhiro Watsuki,Shueisha,Shōnen,28,1994–1999,72 million
+29,Fullmetal Alchemist,Hiromu Arakawa,Enix,Shōnen,27,2001–2010,70.3 million
+30,Kingdom,Yasuhisa Hara,Shueisha,Seinen,59,2006–present,68 million
+31,Boys Over Flowers,Yoko Kamio,Shueisha,Shōjo,37,1992–2003,61 million
+32,Rokudenashi Blues,Masanori Morita,Shueisha,Shōnen,42,1988–1997,60 million
+33,Shoot!,Tsukasa Ooshima,Kodansha,Shōnen,33,1990–2003,60 million
+34,The Prince of Tennis,Takeshi Konomi,Shueisha,Shōnen,42,1999–2008,60 million
+35,Bad Boys,Hiroshi Tanaka,Shōnen Gahōsha,Seinen,22,1988–1996,55 million
+36,Gin Tama,Hideaki Sorachi,Shueisha,Shōnen,77,2003–2019,55 million
+37,H2,Mitsuru Adachi,Shogakukan,Shōnen,34,1992–1999,55 million
+38,Major,Takuya Mitsuda,Shogakukan,Shōnen,78,1994–2010,54 million
+39,Minami no Teiō,Dai Tennōji,Nihon Bungeisha,Shōnen,152,1992–present,53 million
+40,Ranma ½,Rumiko Takahashi,Shogakukan,Shōnen,38,1987–1996,53 million
+41,City Hunter,Tsukasa Hojo,Shueisha,Shōnen,35,1985–1991,50 million
+42,Cobra,Buichi Terasawa,Shueisha,Shōnen,18,1978–1984,50 million
+43,Devilman,Go Nagai,Kodansha,Shōnen,5,1972–1973,50 million
+44,Dragon Quest: Dai no Daibōken,Riku Sanjo,Shueisha,Shōnen,37,1989–1996,50 million
+45,Glass Mask,Suzue Miuchi,Hakusensha,Shōjo,49,1976–present,50 million
+46,Great Teacher Onizuka,Tooru Fujisawa,Kodansha,Shōnen,25,1997–2002,50 million
+47,Initial D,Shuichi Shigeno,Kodansha,Seinen,48,1995–2013,50 million
+48,Inuyasha,Rumiko Takahashi,Shogakukan,Shōnen,56,1996–2008,50 million
+49,Yu Yu Hakusho,Yoshihiro Togashi,Shueisha,Shōnen,19,1990–1994,50 million
+50,Haikyū!!,Haruichi Furudate,Shueisha,Shōnen,45,2012–2020,50 million
+51,Dokaben,Shinji Mizushima,Akita Shoten,Shōnen,48,1972–1981,48 million
+52,Crows,Hiroshi Takahashi,Akita Shoten,Shōnen,26,1990–1998,46 million
+53,Shizukanaru Don – Yakuza Side Story,Tatsuo Nitta,Jitsugyo no Nihon Sha,Seinen,108,1988–2013,45 million
+54,Tokyo Ghoul,Sui Ishida,Shueisha,Seinen,30,2011–2018,44 million
+55,Super Radical Gag Family,Kenji Hamaoka,Akita Shoten,Shōnen,90,1993–present,44 million
+56,Crayon Shin-chan,Yoshito Usui,Futabasha,Seinen,50,1990–2010,43 million
+57,Nana,Ai Yazawa,Shueisha,Shōjo,21,2000–2009 (on hiatus),43 million
+58,Be-Bop High School,Kazuhiro Kiuchi,Kodansha,Seinen,48,1983–2003,40 million
+59,Berserk,Kentaro Miura,Hakusensha,Seinen,40,1989–present,40 million
+60,Kachō Kōsaku Shima,Kenshi Hirokane,Kodansha,Seinen,83,1983–present,40 million
+61,Kyō Kara Ore Wa!!,Hiroyuki Nishimori,Shogakukan,Shōnen,38,1988–1997,40 million
+62,Tsurikichi Sanpei,Takao Yaguchi,Kodansha,Shōnen,65,1973–1983,40 million
+63,Yu-Gi-Oh!,Kazuki Takahashi,Shueisha,Shōnen,38,1996–2004,40 million
+64,Nodame Cantabile,Tomoko Ninomiya,Kodansha,Josei,23,2001–2009,37 million
+65,The Seven Deadly Sins,Nakaba Suzuki,Kodansha,Shōnen,41,2012–2020,37 million
+66,20th Century Boys,Naoki Urasawa,Shogakukan,Seinen,22,1999–2006,36 million
+67,Ace of Diamond,Yuji Terajima,Kodansha,Shōnen,67,2006–present,36 million
+68,Cooking Papa,Tochi Ueyama,Kodansha,Seinen,148,1985–present,36 million
+69,Crest of the Royal Family,Chieko Hosokawa,Akita Shoten,Shōjo,64,1976–present,36 million
+70,Dr. Slump,Akira Toriyama,Shueisha,Shōnen,18,1980–1984,35 million
+71,Worst,Hiroshi Takahashi,Akita Shoten,Shōnen,33,2002–2013,35 million
+72,Sailor Moon,Naoko Takeuchi,Kodansha,Shōjo,18,1991–1997,35 million
+73,Saint Seiya,Masami Kurumada,Shueisha,Shōnen,28,1986–1990,35 million
+74,Shaman King,Hiroyuki Takei,Shueisha/Kodansha,Shōnen,32/35,1998–2004,35 million
+75,3×3 Eyes,Yuzo Takada,Kodansha,Seinen,40,1987–2002,33 million
+76,Kimi ni Todoke,Karuho Shiina,Shueisha,Shōjo,30,2005–2017,33 million
+77,Chibi Maruko-chan,Momoko Sakura,Shueisha,Shōjo,16,1986–2009,32 million
+78,Kuroko's Basketball,Tadatoshi Fujimaki,Shueisha,Shōnen,30,2008–2014,31 million
+79,Bastard‼,Kazushi Hagiwara,Shueisha,Shōnen/Seinen,27,1988–present,30 million
+80,Chameleon,Atsushi Kase,Kodansha,Shōnen,47,1990–1999,30 million
+81,Death Note,Tsugumi Ohba,Shueisha,Shōnen,12,2003–2006,30 million
+82,Fruits Basket,Natsuki Takaya,Hakusensha,Shōjo,23,1998–2006,30 million
+83,Gaki Deka,Tatsuhiko Yamagami,Akita Shoten,Shōnen,26,1974–1980,30 million
+84,Jarinko Chie,Etsumi Haruki,Futabasha,Seinen,67,1978–1997,30 million
+85,One-Punch Man,One,Shueisha,Seinen,22,2012–present,30 million
+86,Reborn!,Akira Amano,Shueisha,Shōnen,42,2004–2012,30 million
+87,Salaryman Kintarō,Hiroshi Motomiya,Shueisha,Seinen,30,1994–2002,30 million
+88,Shura no Mon,Masatoshi Kawahara,Kodansha,Shōnen,31,1987–1996,30 million
+89,Urusei Yatsura,Rumiko Takahashi,Shogakukan,Shōnen,34,1978–1987,30 million
+90,Ushio and Tora,Kazuhiro Fujita,Shogakukan,Shōnen,33,1990–1996,30 million
+91,Futari Ecchi,Katsu Aki,Hakusensha,Seinen,80,1997–present,29.5 million
+92,Black Butler,Yana Toboso,Square Enix,Shōnen,30,2006–present,29 million
+93,Hayate Densetsu Tokkō no Taku,Hiroto Saki,Kodansha,Shōnen,27,1991–1997,29 million
+94,My Hero Academia,Kōhei Horikoshi,Shueisha,Shōnen,28,2014–present,28 million
+95,Tokimeki Tonight,Koi Ikeno,Shueisha,Shōjo,30,1982–1994,28 million
+96,Itazura na Kiss,Kaoru Tada,Shueisha,Shōjo,23,1990–1999,27 million
+97,Yūkan Club,Yukari Ichijo,Shueisha,Shōjo,19,1982–2002,27 million
+98,Asari-chan,Mayumi Muroyama,Shogakukan,Shōjo,100,1978–2014,26.5 million
+99,Baribari Legend,Shuichi Shigeno,Kodansha,Shōnen,38,1983–1991,26 million
+100,Sakigake!! Otokojuku,Akira Miyashita,Shueisha,Shōnen,34,1985–1991,26 million
+101,Angel Heart,Tsukasa Hojo,Shinchosha,Seinen,54,2001–2017,25 million
+102,Assassination Classroom,Yūsei Matsui,Shueisha,Shōnen,21,2012–2016,25 million
+103,Boys Be...,Masahiro Itabashi,Kodansha,Shōnen,32,1991–1997,25 million
+104,D.Gray-man,Katsura Hoshino,Shueisha,Shōnen,27,2004–present,25 million
+105,Flame of Recca,Nobuyuki Anzai,Shogakukan,Shōnen,33,1995–2002,25 million
+106,Hikaru no Go,Yumi Hotta,Shueisha,Shōnen,23,1998–2003,25 million
+107,Magi: The Labyrinth of Magic,Shinobu Ohtaka,Shogakukan,Shōnen,37,2009–2017,25 million
+108,Maison Ikkoku,Rumiko Takahashi,Shogakukan,Seinen,15,1980–1987,25 million
+109,Miyuki,Mitsuru Adachi,Shogakukan,Shōnen,12,1980–1984,25 million
+110,Neon Genesis Evangelion,Yoshiyuki Sadamoto,Kadokawa Shoten,Shōnen,14,1994–2013,25 million
+111,Seito Shokun!,Yoko Shoji,Kodansha,Shōjo,78,1977–2019,25 million
+112,The Promised Neverland,Kaiu Shirai,Shueisha,Shōnen,20,2016–2020,25 million
+113,The Silent Service,Kaiji Kawaguchi,Kodansha,Seinen,32,1988–1996,25 million
+114,Toriko,Mitsutoshi Shimabukuro,Shueisha,Shōnen,43,2008–2016,25 million
+115,Tsuribaka Nisshi,Jūzō Yamasaki,Shogakukan,Seinen,100,1979–present,25 million
+116,Yowamushi Pedal,Wataru Watanabe,Akita Shoten,Shōnen,67,2008–present,25 million
+117,Ahiru no Sora,Hinata Takeshi,Kodansha,Shōnen,50,2004–present,24 million
+118,Chihayafuru,Yuki Suetsugu,Kodansha,Josei,44,2007–present,24 million
+119,Rave Master,Hiro Mashima,Kodansha,Shōnen,35,1999–2005,23.5 million
+120,Gantz,Hiroya Oku,Shueisha,Seinen,37,2000–2013,23 million
+121,Himitsu Series,Various authors,Gakken,Children,116,1972–2014,23 million
+122,Abu-san,Shinji Mizushima,Shogakukan,Seinen,107,1973–2014,22 million
+123,Hoshin Engi,Ryu Fujisaki,Shueisha,Shōnen,23,1996–2000,22 million
+124,Patalliro!,Mineo Maya,Hakusensha,Shōjo,100,1979–present,22 million
+125,Zatch Bell!,Makoto Raiku,Shogakukan,Shōnen,33,2001–2007,22 million
+126,Dōbutsu no Oisha-san,Noriko Sasaki,Hakusensha,Shōjo,12,1987–1993,21.6 million
+127,Kaiji,Nobuyuki Fukumoto,Kodansha,Seinen,74,1996–present,21.5 million
+128,Terra Formars,Yū Sasuga,Shueisha,Seinen,22,2011–present,21 million
+129,Dragon Quest Retsuden: Roto no Monshō,Chiaki Kawamata,Enix,Shōnen,21,1991–1997,20.9 million
+130,Shōnen Shōjo Nippon no Rekishi,"Kōta Kodama, Jun Aomura",Shogakukan,Children,24,1981–2018,20.2 million
+131,Ashita no Joe,Ikki Kajiwara,Kodansha,Shōnen,20,1968–1973,20 million
+132,Eyeshield 21,Riichiro Inagaki,Shueisha,Shōnen,37,2002–2009,20 million
+133,Food Wars!: Shokugeki no Soma,Yūto Tsukuda,Shueisha,Shōnen,36,2012–2019,20 million
+134,Ginga Legend Weed,Yoshihiro Takahashi,Nihon Bungeisha,Seinen,110,1999–2018,20 million
+135,Hell Teacher Nūbē,Shō Makura,Shueisha,Shōnen,31,1993–1999,20 million
+136,Kimagure Orange Road,Izumi Matsumoto,Shueisha,Shōnen,18,1984–1987,20 million
+137,Love Hina,Ken Akamatsu,Kodansha,Shōnen,14,1998–2001,20 million
+138,Monster,Naoki Urasawa,Shogakukan,Seinen,18,1994–2001,20 million
+139,Negima! Magister Negi Magi,Ken Akamatsu,Kodansha,Shōnen,38,2003–2012,20 million
+140,Oh My Goddess!,Kōsuke Fujishima,Kodansha,Seinen,48,1988–2014,20 million
+141,Rookies,Masanori Morita,Shueisha,Shōnen,24,1998–2003,20 million
+142,The Rose of Versailles,Riyoko Ikeda,Shueisha,Shōjo,10,1972–1973,20 million
+143,Shōnen Ashibe,Hiromi Morishita,Shueisha,Seinen,8,1988–1994,20 million
+144,Sukeban Deka,Shinji Wada,Hakusensha,Shōjo,22,1976–1982,20 million
+145,That Time I Got Reincarnated as a Slime,Taiki Kawakami,Kodansha,Shōnen,15,2015-present,20 million
+146,Tokyo Daigaku Monogatari,Tatsuya Egawa,Shogakukan,Seinen,34,1992–2001,20 million
+147,Tsubasa: Reservoir Chronicle,Clamp,Kodansha,Shōnen,28,2003–2009,20 million

@@ -1,0 +1,14 @@
+pyecharts,
+numpy,
+pandas,
+matplotlib,
+seaborn,
+sklearn,
+math,
+requests,
+time,
+BeautifulSoup,
+PIL,
+io is necessary
+
+By the way, you should make the two codes in the src and the final_project.ipynb in the same folder.
